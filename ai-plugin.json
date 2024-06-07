@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Scryfall Magic Cards",
+  "name_for_model": "scryfall",
+  "description_for_human": "Fetch Magic: The Gathering card information from Scryfall.",
+  "description_for_model": "Use this plugin to get detailed information about Magic: The Gathering cards from Scryfall.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://yourusername.github.io/gpt-action-files/openapi.yaml"
+  },
+  "logo_url": "https://yourusername.github.io/gpt-action-files/logo.png",
+  "contact_email": "support@yourdomain.com",
+  "legal_info_url": "https://yourdomain.com/legal"
+}
